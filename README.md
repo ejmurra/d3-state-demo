@@ -1,5 +1,5 @@
 # d3-state-demo
-A demo of [d3-state-handler](http://github.com/ejmurra/d3-state-handler)
+A demo of [d3-state-handler](http://github.com/ejmurra/d3-state-handler).
 
 ### Run
 To run, simply serve the root directory on localhost and open index.js in your browser. You can accomplish this using the python simpleHttpServer in your terminal:
